@@ -6,8 +6,7 @@ A pharmacy management system (PMS) is a software solution that helps pharmacists
 
 2. *Prescription Management*: Manages patient profiles, prescription records, and supports electronic prescription processing, ensuring accuracy and compliance with regulations.
 
-3. *Sales and Billing*: Handles point-of-sale transactions, generates invoices, and integrates with insurance systems for claims processing.
-
+3. *Sales and Billing*: Handles point-of-sale transactions, generates invoices, and integrates with insurance systems for claims processing..
 4. *Patient Management*: Maintains patient information, including contact details, medical history, and allergies, facilitating personalized care and effective communication.
 
 5. *Reporting and Analytics*: Generates reports on sales, inventory, profitability, and medication usage trends to support decision-making and regulatory compliance.
